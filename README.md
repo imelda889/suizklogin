@@ -286,11 +286,11 @@ npm run build
 
 ## 📊 Demo & Usage
 
-### Live Demo
-🔗 **[Try Proof of Attendance Demo](https://proof-of-attendance-sui.vercel.app)**
+### Demo video on YouTube
+🔗 **[Try Proof of Attendance Demo]https://youtu.be/vdWPeys_zH4
 
 ### Demo Video
-🎥 **[5-Minute Walkthrough - DevMatch 2025](https://your-demo-video-link)**
+🎥 **[5-Minute Walkthrough - DevMatch 2025]https://drive.google.com/file/d/1SoFLGk-G3zxRoMZiwnIWuXelSP1vSKDs/view?usp=sharing
 
 ### Try It Yourself
 
